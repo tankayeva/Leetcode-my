@@ -7,6 +7,8 @@ August
 
 09.08 - 
 
+13.08 - 419 for in 2D array
+
 
 
 hard to solve:
