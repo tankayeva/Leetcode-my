@@ -1,6 +1,7 @@
 package arrays;
 
 
+import java.util.Arrays;
 
 class Solution905 {
     public int[] sortArrayByParity(int[] A) {
@@ -25,11 +26,12 @@ class Solution905 {
 
         return res;
     }
-        public static void main(String[] args){
-            Solution905 s = new Solution905();
 
-            int [] arr = {3,1,2,4};
-            System.out.println(s.sortArrayByParity(arr));
-        }
+    public static void main(String[] args) {
+        Solution905 s = new Solution905();
 
+        int[] arr = {3, 1, 2, 4};
+        System.out.println(Arrays.toString(s.sortArrayByParity(arr)));
     }
+
+}

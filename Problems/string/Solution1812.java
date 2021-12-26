@@ -5,7 +5,7 @@ package string;
 public class Solution1812 {
 
     public boolean squareIsWhite(String c) {
-        return (c.charAt(0) - 'a' + c.charAt(1) - '0' ) % 2 == 0;
+        return (c.charAt(0) - 'a' + c.charAt(1) - '0') % 2 == 0;
     }
 
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class Solution1812 {
         System.out.println(s.squareIsWhite("a1"));
 
         String str = "abcdf";
-        int n = str.charAt(1) - 'a';
+        int n = str.charAt(4) - 'a';
         System.out.println(n);
     }
 }

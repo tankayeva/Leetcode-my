@@ -1,4 +1,5 @@
 package string;
+
 //https://leetcode.com/problems/goal-parser-interpretation/
 class Solution1678 {
     public String interpret(String command) {
@@ -8,10 +9,10 @@ class Solution1678 {
             char c = command.charAt(i);
             if (c == 'G') {
                 sb.append(c);
-            }else if (c == '(' && command.charAt(i + 1) == ')') {
+            } else if (c == '(' && command.charAt(i + 1) == ')') {
                 sb.append("o");
                 ++i;
-            }else {
+            } else {
                 sb.append("al");
                 i += 3;
             }

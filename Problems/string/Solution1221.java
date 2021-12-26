@@ -11,8 +11,8 @@ public class Solution1221 {
         return res;
     }
 
-        public static void main(String[] args) {
-            Solution1221 s = new Solution1221();
-            System.out.println(s.balancedStringSplit("RLRRLLRLRL"));
-        }
+    public static void main(String[] args) {
+        Solution1221 s = new Solution1221();
+        System.out.println(s.balancedStringSplit("RLRRLLRLRL"));
     }
+}

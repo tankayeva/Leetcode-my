@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Solution1122 {
-    public int [] relativeSortArray(int[] arr1, int[] arr2) {
+    public int[] relativeSortArray(int[] arr1, int[] arr2) {
         int[] res = new int[arr1.length];
         int[] left = new int[arr1.length];
         int n = 0, k = arr1.length - 1;
@@ -16,20 +16,20 @@ class Solution1122 {
                 }
             }
         }
-      ArrayList<Integer> list = new ArrayList<Integer>();
-        for (int i=0; i<arr1.length; i++){
-            for (int j=0; j<arr1.length; i++){
-                if (arr1[i] != arr2[j]){
+        ArrayList<Integer> list = new ArrayList<Integer>();
+        for (int i = 0; i < arr1.length; i++) {
+            for (int j = 0; j < arr1.length; i++) {
+                if (arr1[i] != arr2[j]) {
                     list.add(arr1[i]);
                 }
             }
         }
 
-        for (int i = 0; i< list.size() ; i++){
+        for (int i = 0; i < list.size(); i++) {
             res[n] = list.get(i);
         }
 
-    return res;
+        return res;
 
     }
 

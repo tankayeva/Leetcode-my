@@ -7,8 +7,8 @@ class Solution1119 {
         StringBuilder sb = new StringBuilder();
 
         //Appr.1
-        for (char c: s.toCharArray()){
-            if (c!='a' && c!='e' && c!='i'&& c!='o' && c!='u'){
+        for (char c : s.toCharArray()) {
+            if (c != 'a' && c != 'e' && c != 'i' && c != 'o' && c != 'u') {
                 sb.append(c);
             }
         }
@@ -26,7 +26,7 @@ class Solution1119 {
 
     public static void main(String[] args) {
         Solution1119 s = new Solution1119();
-       // s.removeVowels("leetcodeisacommunityforcoders");
+        // s.removeVowels("leetcodeisacommunityforcoders");
         System.out.println(s.removeVowels("leetcodeisacommunityforcoders"));
     }
-    }
+}

@@ -1,0 +1,26 @@
+package string;
+
+import java.util.Stack;
+
+//Explanation
+//https://youtu.be/3gqYc56p9qU
+public class _20 {
+
+    class Solution {
+        public boolean isValid(String s) {
+
+            Stack<Character> stack = new Stack<Character>();
+            for (char c : s.toCharArray()) {
+                if (c == '(')
+                    stack.push(')');
+                else if (c == '{')
+                    stack.push('}');
+                else if (c == '[')
+                    stack.push(']');
+                else if (stack.isEmpty() || stack.pop() != c)
+                    return false;
+            }
+            return stack.isEmpty();
+        }
+    }
+}
