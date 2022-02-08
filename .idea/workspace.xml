@@ -2,24 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="635b8bee-3888-471b-8fff-d3707b7f8188" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode-my.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Design/_380.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Heap/_253.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sliding_Window/_1052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sorting/_252.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/arrays/Solution137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/arrays/_56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/arrays/_560.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/arrays/Solution1122.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/arrays/Solution1122.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/arrays/Solution263.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/arrays/Solution263.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/arrays/Solution905.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/arrays/Solution905.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/string/Solution1108.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/string/Solution1108.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/string/Solution1119.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/string/Solution1119.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/string/Solution1221.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/string/Solution1221.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/string/Solution1678.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/string/Solution1678.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/string/Solution1812.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/string/Solution1812.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statistics.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Greedy/_2126.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Greedy/_2139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/LinkedList/_206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/LinkedList/_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Recursion/_509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Recursion/_70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Recursion/_700.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Recursion/_779.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Two_Pointers/_1089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/arrays/_2148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/arrays/_2149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/arrays/_2150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/arrays/_2161.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/math/_2028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/string/_2027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/string/_2125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/string/_2126.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/string/_2165.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Bit_Manipulation/Solution1720.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Bit_Manipulation/_1720.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Recursion/_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Recursion/_50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/arrays/Solution137.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/arrays/_137.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/arrays/Solution26.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/arrays/_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/arrays/Solution263.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/arrays/_263.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/arrays/Solution53.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/arrays/_53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/arrays/Solution881.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/arrays/_881.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/arrays/Solution896.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/arrays/_896.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/arrays/Solution905.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/arrays/_905.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/arrays/Solution922.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/arrays/_922.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/math/Solution1822.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/math/_1822.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,17 +158,70 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.Test" />
+  <component name="RunManager" selected="Application._922">
+    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Base" />
       <module name="Leetcode-my" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS.*" />
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Derived" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Derived" />
+      <module name="Leetcode-my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Solution1502" />
+      <module name="Leetcode-my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming._5" />
+      <module name="Leetcode-my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_922" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays._922" />
+      <module name="Leetcode-my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,7 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application._922" />
+        <item itemvalue="Application.Solution1502" />
+        <item itemvalue="Application._5" />
+        <item itemvalue="Application.Base" />
+        <item itemvalue="Application.Derived" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +253,8 @@
       <workItem from="1635738202213" duration="2137000" />
       <workItem from="1639631799061" duration="1056000" />
       <workItem from="1640147946891" duration="7112000" />
-      <workItem from="1640506311236" duration="362000" />
+      <workItem from="1640506311236" duration="618000" />
+      <workItem from="1640507004815" duration="23303000" />
     </task>
     <servers />
   </component>
